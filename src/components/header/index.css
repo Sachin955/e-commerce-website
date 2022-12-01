@@ -1,0 +1,29 @@
+.header {
+    padding: 0px;
+    margin: 0px;
+    background-color: lightgreen;
+}
+.logo {
+    width:50px;   
+}
+.navbar {
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+ul.header-nav {
+    display: flex;
+    /* justify-content: flex-end; */
+    padding: 0;
+}
+ul.header-nav li {
+    list-style: none;   
+}
+ul.header-nav li a {
+    text-decoration: none;
+    margin: 0 10px;
+}
+.cart_image{
+    border-radius: 30px;
+}
+

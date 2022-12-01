@@ -1,0 +1,14 @@
+
+
+table tbody tr .product-img {
+    width: 200px;
+}
+table .product-btn{
+   width:200px;
+   padding:8px;
+   background-color: lightgreen;
+   border-radius: 4px;
+   cursor: pointer;
+   border:none;
+
+}
